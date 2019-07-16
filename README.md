@@ -18,7 +18,7 @@ Ingresar a la carpeta raiz del proyecto y ejecutar el siguiente comando maven
 
 Nota: Debe estar disponible el puerto 9090 en el PC donde se ejecute esta API
 
-### Despelgar Api
+### Desplegar Api
 
 Se debe tomar el war generado en la carpeta target llamado "periodos-perdidos.war"
 Y desplegar sobre un servidor tomcat local configurado en el puerto 9090
